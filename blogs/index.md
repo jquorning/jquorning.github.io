@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Blogs
----
 
 - [Inspirel](http://www.inspirel.com/articles.html)
  * [Ada and SPARK on ARM Cortex-M](http://www.inspirel.com/articles/Ada_On_Cortex.html)

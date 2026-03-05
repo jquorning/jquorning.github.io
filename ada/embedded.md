@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Embedded
----
 
 - [AVR-Ada](https://sourceforge.net/p/avr-ada/wiki/Home/)
 - [Using Arduino with Ada](http://arduino.ada-language.com/building-avr-gnat-for-avr-ada.html)

@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Moral Support
----
 
 - [Zeigler Report](http://archive.adaic.com/intro/ada-vs-c/cada_art.pdf)
 - [Lifecycle Cost](http://archive.adaic.com/docs/present/ajpo/pll-cost/html/index.html)

@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Ada Resources
----
 
 - [AARM]()
 - [AIC](http://www.adaic.com/)

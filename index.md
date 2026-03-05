@@ -1,7 +1,5 @@
----
--- title: ARH - Ada Resource Hub
 -- layout: page
----
+-- title: ARH - Ada Resource Hub
 
 Welcome to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 

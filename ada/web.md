@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Web
----
 
 This is a description of Ada web technologies.
 

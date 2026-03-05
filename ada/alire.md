@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Alire Page
----
 
 ### Site
 - [Official](https://alire.ada.dev)

@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: GNAT Packages
----
 
 - [Ada Book](https://en.wikibooks.org/wiki/Ada_Programming/Libraries/GNAT)
 - [AdaCore](https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/the_gnat_library.html)

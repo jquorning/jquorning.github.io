@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Ada.Containers Packages
----
 
 ## Containers
 

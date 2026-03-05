@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: FOSDEM
----
 
 [FOSDEM](https://fosdem.org/) is a free event for software developers
 to meet, share ideas and collaborate.

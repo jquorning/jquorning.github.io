@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: FOSS
----
 
 # GitHub
 - [Alire](https://github.com/alire-project/alire)

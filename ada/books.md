@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Books
----
 
 ## Video
 

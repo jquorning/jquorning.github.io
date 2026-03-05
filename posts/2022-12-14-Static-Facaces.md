@@ -1,10 +1,8 @@
----
 -- layout: post
 -- title:  "Static Facades"
 -- category: pattern
 -- tags: ["Pattern", "Facade", "Static", "Ada", "`package`", "`renames`"]
 -- version: 0.0.1-wip
----
 
 This is supposed to be a blog about how to make a static facade to a
 package called *Bike_Repair_Shop*.

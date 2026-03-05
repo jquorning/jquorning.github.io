@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Papers
----
 
 - [IRONSIDES](https://ironsides.martincarlisle.com/globecom_2012.pdf)
 DNS With No Single-Packet Denial of Service or Remote Code Execution

@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Ada Packages
----
 
 - [Ada.Containers](/ada/man/ada-containers/)
 - [Ada.Numerics](/ada/man/ada-numerics/)

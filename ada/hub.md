@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Hub
----
 
 ## tl;dr
 - [AARM](https://www.ada-auth.org/arm.html) Annotated Ada Reference Manual

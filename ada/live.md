@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Live
----
 
 - [Ada Planet](https://www.laeran.pl/adaplanet/i/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)

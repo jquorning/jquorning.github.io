@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: GitHub Projects
----
 
 - [Alire](https://github.com/alire-project/alire)
 - [Alire Index](https://github.com/alire-project/alire-index)

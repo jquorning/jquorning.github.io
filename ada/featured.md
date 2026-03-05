@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Featured
----
 
 - [Alire](/ada/alire/) Ada Library Respository. Package manager with the
 `alr` command line tool

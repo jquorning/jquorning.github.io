@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Chats
----
 
 - [Forum](https://forum.ada-lang.io)
 - [Gitter](https://gitter.im/ada-lang)

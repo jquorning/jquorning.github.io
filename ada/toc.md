@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: TOC
----
 
 - [Get Started](/ada/getstarted/)
 - [Forum](/ada/chat/)

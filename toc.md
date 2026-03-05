@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Table of Contents
----
 
 - [Get Started](/ada/getstarted/)
 - [Featured](/ada/featured/)

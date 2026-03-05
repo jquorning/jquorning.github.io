@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Resources
----
 
 tl;dr
 ----

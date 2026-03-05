@@ -1,10 +1,8 @@
----
 -- layout: post
 -- title:  "Ada Ada Bindigs"
 -- category: binding
 -- tags: ["Ada", "binding"]
 -- version: 0.0.1-wip
----
 
 Why make Ada bindings to Ada libraries ?
 To make a facade specifically for the project at hand.

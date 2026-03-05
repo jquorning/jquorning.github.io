@@ -1,7 +1,5 @@
----
 -- layout: page
 -- title: Other Resources
----
 
 ## [AdaCore](https://adacore.com)
 
