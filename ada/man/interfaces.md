@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Interfaces Packages
+-- layout: page
+-- title: Interfaces Packages
 ---
 
 - [Interfaces](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-B-2.html)

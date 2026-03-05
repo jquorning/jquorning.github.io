@@ -1,6 +1,6 @@
 ---
-layout: page
-title: GitHub Projects
+-- layout: page
+-- title: GitHub Projects
 ---
 
 - [Alire](https://github.com/alire-project/alire)

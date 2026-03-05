@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Ada.Numerics
+-- layout: page
+-- title: Ada.Numerics
 ---
 
 - [Ada.Numerics](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-5.html)

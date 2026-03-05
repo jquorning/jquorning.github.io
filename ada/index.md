@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Resources
+-- layout: page
+-- title: Resources
 ---
 
 tl;dr

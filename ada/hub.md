@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Hub
+-- layout: page
+-- title: Hub
 ---
 
 ## tl;dr
@@ -51,4 +51,3 @@ title: Hub
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
-

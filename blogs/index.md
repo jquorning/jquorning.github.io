@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Blogs
+-- layout: page
+-- title: Blogs
 ---
 
 - [Inspirel](http://www.inspirel.com/articles.html)

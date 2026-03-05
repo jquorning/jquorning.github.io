@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Ada Resources
+-- layout: page
+-- title: Ada Resources
 ---
 
 - [AARM]()

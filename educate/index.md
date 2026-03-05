@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Educate
+-- layout: page
+-- title: Educate
 ---
 
 Learn

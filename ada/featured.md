@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Featured
+-- layout: page
+-- title: Featured
 ---
 
 - [Alire](/ada/alire/) Ada Library Respository. Package manager with the

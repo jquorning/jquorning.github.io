@@ -1,11 +1,11 @@
 ---
-title: ARH - Ada Resource Hub
-layout: page
+-- title: ARH - Ada Resource Hub
+-- layout: page
 ---
 
 Welcome to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 
-In the beginnig I was a little facinated by her; By now it has turned into 
+In the beginnig I was a little facinated by her; By now it has turned into
 a passion.
 
 - [News Digest](/news-digest/)
@@ -41,4 +41,3 @@ Standard Library
 Source
 ----
 [GitHub](https://github.com/the-arh/)
-

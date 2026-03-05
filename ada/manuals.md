@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Manuals
+-- layout: page
+-- title: Manuals
 ---
 
 - [Ada 2012 Reference Manual](http://docs.adacore.com/live/wave/arm12/html/arm12/arm12.html)

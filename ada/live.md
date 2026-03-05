@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Live
+-- layout: page
+-- title: Live
 ---
 
 - [Ada Planet](https://www.laeran.pl/adaplanet/i/)

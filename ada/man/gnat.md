@@ -1,6 +1,6 @@
 ---
-layout: page
-title: GNAT Packages
+-- layout: page
+-- title: GNAT Packages
 ---
 
 - [Ada Book](https://en.wikibooks.org/wiki/Ada_Programming/Libraries/GNAT)

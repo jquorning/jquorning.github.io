@@ -1,6 +1,6 @@
 ---
-layout: page
-title: TOC
+-- layout: page
+-- title: TOC
 ---
 
 - [Get Started](/ada/getstarted/)
@@ -26,4 +26,3 @@ title: TOC
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
-

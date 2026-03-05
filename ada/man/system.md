@@ -1,6 +1,6 @@
 ---
-layout: page
-title: System Packages
+-- layout: page
+-- title: System Packages
 ---
 
 ## GNAT

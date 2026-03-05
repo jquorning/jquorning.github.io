@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Library Selector
+-- layout: page
+-- title: Library Selector
 ---
 
 Windowing
@@ -14,6 +14,3 @@ Web
 
 C library Bindings
 ----
-
-
-

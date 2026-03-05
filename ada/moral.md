@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Moral Support
+-- layout: page
+-- title: Moral Support
 ---
 
 - [Zeigler Report](http://archive.adaic.com/intro/ada-vs-c/cada_art.pdf)

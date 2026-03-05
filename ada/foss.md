@@ -1,6 +1,6 @@
 ---
-layout: page
-title: FOSS
+-- layout: page
+-- title: FOSS
 ---
 
 # GitHub

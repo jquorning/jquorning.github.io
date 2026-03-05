@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+-- layout: page
+-- title: About
+-- permalink: /about/
 ---
 
 This site is meant to serve as a directory for the content the

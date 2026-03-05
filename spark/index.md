@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 'SPARK'
+-- layout: page
+-- title: 'SPARK'
 ---
 
 - [SPARK 2014 Reference Manual](https://docs.adacore.com/spark2014-docs/html/lrm/)
@@ -31,7 +31,7 @@ title: 'SPARK'
 ## Books
 
 - [SPARK: The Proven Approach to High Integrity Software]() by John Barnes
-- [Building High Integrity Applications with SPARK](https://books.google.com/books?id=Yh9TCgAAQBAJ) 
+- [Building High Integrity Applications with SPARK](https://books.google.com/books?id=Yh9TCgAAQBAJ)
 by John W. McCormick, Peter C. Chapin
 
 ## Academia

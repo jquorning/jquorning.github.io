@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Ada Packages
+-- layout: page
+-- title: Ada Packages
 ---
 
 - [Ada.Containers](/ada/man/ada-containers/)

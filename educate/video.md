@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Education Videos
+-- layout: page
+-- title: Education Videos
 ---
 
 

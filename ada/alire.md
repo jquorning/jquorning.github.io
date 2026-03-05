@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Alire Page
+-- layout: page
+-- title: Alire Page
 ---
 
 ### Site
@@ -16,7 +16,7 @@ title: Alire Page
 - [Alire: a Library Respository
   Manager](https://core.ac.uk/download/pdf/289998603.pdf)Alire: a
   Library Respository Manager for the Open Source Ada
-  Ecosystem. Alejandro R. Mosteo in Ada User Journal 
+  Ecosystem. Alejandro R. Mosteo in Ada User Journal
 - [Alire Intro](https://github.com/mosteo/2022-AEiC-alire-tutorial/blob/main/slides-alire-intro-aeic2022.pdf)
 - [Alire Exercises](https://github.com/mosteo/2022-AEiC-alire-tutorial/blob/main/alire-exercises.slides.pdf)
 
@@ -78,9 +78,9 @@ Would like to: `brew install alire`
 - [PR for Alire](https://github.com/Homebrew/homebrew-cask/pull/117527)
 
 Cask of formula? macOS and Homebrew do not have an Ada compiler. So a
-binary package is needed. Is `alr` available as binary for macOS? 
+binary package is needed. Is `alr` available as binary for macOS?
 The alire GitHub has Alire release V1.1.1 available
-[here](https://github.com/alire-project/alire/releases). 
+[here](https://github.com/alire-project/alire/releases).
 And [AppImage](https://github.com/alire-project/alire/releases) also.
 
 

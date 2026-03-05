@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Library
+-- layout: page
+-- title: Library
 ---
 
 - [Ada](/ada/man/ada/)

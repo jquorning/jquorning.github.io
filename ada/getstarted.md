@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 'Get Started'
+-- layout: page
+-- title: 'Get Started'
 ---
 
 ## Focus

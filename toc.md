@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Table of Contents
+-- layout: page
+-- title: Table of Contents
 ---
 
 - [Get Started](/ada/getstarted/)

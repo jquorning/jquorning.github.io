@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Chats
+-- layout: page
+-- title: Chats
 ---
 
 - [Forum](https://forum.ada-lang.io)

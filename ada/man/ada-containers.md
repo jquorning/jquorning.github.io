@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Ada.Containers Packages
+-- layout: page
+-- title: Ada.Containers Packages
 ---
 
 ## Containers

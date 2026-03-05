@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Papers
+-- layout: page
+-- title: Papers
 ---
 
 - [IRONSIDES](https://ironsides.martincarlisle.com/globecom_2012.pdf)

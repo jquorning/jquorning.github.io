@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Index of Ada Liraries
+-- layout: page
+-- title: Index of Ada Liraries
 ---
 
 * [GtkAda]()

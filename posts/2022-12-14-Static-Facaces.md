@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "Static Facades"
-category: pattern
-tags: ["Pattern", "Facade", "Static", "Ada", "`package`", "`renames`"]
-version: 0.0.1-wip
+-- layout: post
+-- title:  "Static Facades"
+-- category: pattern
+-- tags: ["Pattern", "Facade", "Static", "Ada", "`package`", "`renames`"]
+-- version: 0.0.1-wip
 ---
 
 This is supposed to be a blog about how to make a static facade to a
@@ -68,5 +68,3 @@ is
       renames Bike_Repair_Shop.Pay_Bill;
 end Bike_Repair_Shop_Facade;
 ```
-
-
