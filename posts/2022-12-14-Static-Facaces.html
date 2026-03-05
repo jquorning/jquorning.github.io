@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="http://localhost:8888/posts/2022-12-14-Static-Facaces.html">
+<meta name="author" content="Jesper Quorning">
+<meta name="description" content="Ada Resources">
+<title>Ada Resources</title>
+</head>
+<body>
+<p>This is supposed to be a blog about how to make a static facade to a
+package called <em>Bike_Repair_Shop</em>.</p>
+<pre><code class="language-Ada">package Bike_Repair_Shop
+is
+   function Is_Open return Boolean;
+   procedure Pay_Bill;
+
+   function Is_Coffemaker_On return Boolean;
+   procedure Some_Internal_Procedure;
+
+end Bike_Repair_Shop;
+</code></pre>
+<p>This is intended use:</p>
+<pre><code class="language-Ada">with Bike_Repair_Shop;
+...
+package Shop
+  renams Bike_Repair_Shop;
+...
+if Shop.Is_Open then
+   Shop.Pay_Bill;
+end if;
+</code></pre>
+<p>Now we want to create a facade to the shop;</p>
+<p>The transparent facade</p>
+<pre><code class="language-Ada">with Bike_Repair_Shop_Facade;
+...
+package Bike_Repair_Shop
+  renames Bike_Repair_Shop_Facade;
+
+package Shop
+  renames Bike_Repair_Shop;
+</code></pre>
+<p>Hiding the roughness
+We replace the renaming;</p>
+<pre><code class="language-Ada">
+package Bike_Repair_Shop_Facade
+is
+   function Is_Open return Boolean
+      renames Bike_Repair_Shop.Is_Open;
+   procedure Pay_Bill
+      renames Bike_Repair_Shop.Pay_Bill;
+end Bike_Repair_Shop_Facade;
+</code></pre>
+
+</body>
+</html>
