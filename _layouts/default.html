@@ -1,16 +1,21 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-    <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
-    </div>
-    </body>
+<html lang="{%Language%}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="{%canonicallink%}">
+@@IF@@ {%author%} /= ""
+<meta name="author" content="{%author%}">
+@@END_IF@@
+@@IF@@ {%description%} /= ""
+<meta name="description" content="{%description%}">
+@@END_IF@@
+@@IF@@ {%AtomLink%} /= ""
+{%AtomLink%}
+@@END_IF@@
+<title>{%Name%}</title>
+</head>
+<body>
+{%Content%}
+</body>
 </html>

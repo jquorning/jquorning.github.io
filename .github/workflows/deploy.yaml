@@ -1,0 +1,31 @@
+name: Deploy Ada Blog
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ada (GNAT)
+        uses: alire-project/setup-alire@v5
+
+      - name: Checkout Yass
+        run: git clone https://github.com/yet-another-static-site-generator/yass.git
+
+      - name: Build Yass
+        run: alr -C yass build
+
+      - name: Run Yass
+        run: yass/bin/yass build .
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
