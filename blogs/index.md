@@ -1,6 +1,8 @@
 -- layout: page
 -- title: Blogs
 
+## Blogs
+
 - [Inspirel](http://www.inspirel.com/articles.html)
  * [Ada and SPARK on ARM Cortex-M](http://www.inspirel.com/articles/Ada_On_Cortex.html)
  * [Ada-Python Demo](http://www.inspirel.com/articles/Ada_Python_Demo.html)
@@ -39,22 +41,26 @@
 - [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
 
 ## Distrib
+
 - [archlinux](https://wiki.archlinux.org/index.php/Ada)
 - [Debian](https://people.debian.org/~lbrenta/debian-ada-policy.html)
 
 ## Docker Images
+
 - [tomekw](https://hub.docker.com/r/tomekw/ada-gnat/)[GitHub](https://github.com/tomekw/ada-gnat)
 - [reznik](https://hub.docker.com/r/reznik/gnat/)[BitBucket](https://bitbucket.org/reznikmm/gnat/src/gpl.2019.slim/)
 - [rfc1149](https://hub.docker.com/r/rfc1149/gnat/)
 
 ## Companies
+
 - [Inspirel](http://www.inspirel.com)
 - [AdaPilot](???)
 
 ## Products
+
 - [D2000 SCADA](https://d2000.ipesoft.com)
 - [SattStore WMS](https://www.consafelogistics.com/products/sattstore-wms/)
 - [Ravenports](http://www.ravenports.com)
 - [EuroControl](https://www.eurocontrol.int)
 - [Deep Blue Capital](https://www.deepbluecap.com)
-- [AdaChess](http://www.adachess.com)
+- [AdaChess](https://www.chessprogramming.org/AdaChess)
