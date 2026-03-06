@@ -2,171 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>http://localhost:8888/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/toc.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/posts/2022-06-07-test-of-github-jekyll-blog.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/posts/2022-12-07-Ada-1.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/posts/2022-12-15-Ada-Ada-bindings.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/posts/2022-12-14-Static-Facaces.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/news-digest/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/blogs/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/programming.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/hub.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/library.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/presentations.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/github.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/live.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/books.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/getstarted.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/alire.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/moral.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/foss.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/chat.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/manuals.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/papers.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/embedded.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/about.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/toc.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/fosdem.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/tldr.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/featured.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/web.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/other.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/ada-containers.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/ada-numerics.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/gnat.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/interfaces.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/system.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/ada/man/ada.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/select/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/library/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/spark/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/educate/video.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8888/educate/index.html</loc>
-  <lastmod>2026-03-06T05:24:51Z</lastmod>
+  <lastmod>2026-03-06T05:34:01Z</lastmod>
  </url>
 </urlset>
 
