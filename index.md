@@ -33,4 +33,4 @@ Standard Library
 
 Source
 ----
-[GitHub](https://github.com/jquorning.github.io)
+[GitHub](https://github.com/jquorning/jquorning.github.io)
