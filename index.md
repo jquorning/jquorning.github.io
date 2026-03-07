@@ -1,10 +1,7 @@
 -- layout: page
--- title: ARH - Ada Resource Hub
+-- title: Ada Resources
 
-Welcome to Yet Another Resource Site about our belovid Lady Ada and her deeds.
-
-In the beginnig I was a little facinated by her; By now it has turned into
-a passion.
+Welcome to Yet Another Ada Resource Site.
 
 - [News Digest](/news-digest/)
 - [Ada](/ada/)
@@ -17,12 +14,10 @@ a passion.
 
 others
 ----
-- [ARH Blogs](/blogs/)
-- [Ada Blogs](/ada/blogs/)
-- [Chat](/ada/chat/)
-- [Forum](/ada/chat/)
+- [Ada Blogs](/ada/blogs)
+- [Chat](/ada/chat)
 - [Live](/ada/live)
-- [Web](/ada/web/)
+- [Web](/ada/web)
 
 Standard
 ----
@@ -30,12 +25,12 @@ Standard
 
 Standard Library
 ----
-- [Ada](/ada/man/ada/)
-- [Ada.Containers](/ada/man/ada-containers/)
-- [Ada.Numerics](/ada/man/ada-numerics/)
-- [Interfaces](/ada/man/interfaces/)
-- [System](/ada/man/system/)
+- [Ada](/ada/man/ada)
+- [Ada.Containers](/ada/man/ada-containers)
+- [Ada.Numerics](/ada/man/ada-numerics)
+- [Interfaces](/ada/man/interfaces)
+- [System](/ada/man/system)
 
 Source
 ----
-[GitHub](https://github.com/the-arh/)
+[GitHub](https://github.com/jquorning.github.io)
